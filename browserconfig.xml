@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><browserconfig><msapplication><tile><square70x70logo src="http://yaroslavya.github.io/w8tile/tiny.png?1"/><square150x150logo src="http://yaroslavya.github.io/w8tile/square.png?1"/><wide310x150logo src="http://yaroslavya.github.io/w8tile/wide.png?1"/><square310x310logo src="http://yaroslavya.github.io/w8tile/large.jpg?1"/><TileColor>#c227c2</TileColor></tile></msapplication></browserconfig>
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+  <msapplication>
+    <tile>
+      <square70x70logo src="/mstile-70x70.png"/>
+      <square150x150logo src="/mstile-150x150.png"/>
+      <square310x310logo src="/mstile-310x310.png"/>
+      <wide310x150logo src="/mstile-310x150.png"/>
+      <TileColor>#603cba</TileColor>
+    </tile>
+  </msapplication>
+</browserconfig>
