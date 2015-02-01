@@ -3,9 +3,9 @@
   <msapplication>
     <tile>
       <square70x70logo src="/w8tile/tiny.png"/>
-      <square150x150logo src="/w8tile/square.png"/>
-      <square310x310logo src="/w8tile/large.png"/>
-      <wide310x150logo src="/w8tile/wide.png"/>
+      <square150x150logo src="/w8tile/square.jpg"/>
+      <square310x310logo src="/w8tile/large.jpg"/>
+      <wide310x150logo src="/w8tile/wide.jpg"/>
       <TileColor>#00ff00</TileColor>
     </tile>
   </msapplication>
