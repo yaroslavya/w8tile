@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+  <msapplication>
+    <tile>
+      <square70x70logo src="/w8tile/tiny.png"/>
+      <square150x150logo src="/w8tile/square.jpg"/>
+      <square310x310logo src="/w8tile/large.jpg"/>
+      <wide310x150logo src="/w8tile/wide.jpg"/>
+      <TileColor>#0000ff</TileColor>
+    </tile>
+  </msapplication>
+</browserconfig>
