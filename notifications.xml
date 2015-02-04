@@ -1,0 +1,29 @@
+<tile>
+<visual lang="en-US" version="2">
+<binding template="TileSquare150x150Text04" branding="logo" fallback="TileSquareImage">
+<text id="1">
+Our latest feature is all about doubling the excitement, the thrills, the action, the fun and most-importantly, your winnings!
+</text>
+</binding>
+<binding template="TileWide310x150ImageAndText01" branding="logo" fallback="TileWideImage">
+<image id="1" src="http://www.hanselman.com/blog/content/binary/Windows-Live-Writer/f52d3562b1fa_1466F/61p74b8QGuL._SL1194__c93317c0-de09-4464-9953-4b51c7a0312c.jpg"/>
+<text id="1">
+Our latest feature is all about tripling the excitement, the thrills, the action, the fun and most-importantly, your winnings!
+</text>
+</binding>
+<binding template="TileSquare310x310SmallImagesAndTextList02" branding="logo" contentId="http://www.hanselman.com/blog/PermaLink.aspx?guid=27c6aaa7-7d72-4b46-97a6-3f9f7c0eb41e">
+<image id="1" src="http://yaroslavya.github.io/w8tile/images/1.jpg"/>
+<image id="2" src="http://yaroslavya.github.io/w8tile/images/2.jpg"/>
+<image id="3" src="http://yaroslavya.github.io/w8tile/images/3.jpg"/>
+<text id="1">
+Our latest feature is all about multiexcitement, the thrills, the action, the fun and most-importantly, your winnings!
+</text>
+<text id="2">
+Some more text about betting stuff!
+</text>
+<text id="3">
+Even more text about betting things!
+</text>
+</binding>
+</visual>
+</tile>
