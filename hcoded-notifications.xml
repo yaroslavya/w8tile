@@ -6,7 +6,7 @@ The .NET CoreCLR is now open source, so I ran the GitHub repo through Microsoft 
 </text>
 </binding>
 <binding template="TileWide310x150ImageAndText01" branding="logo" fallback="TileWideImage">
-<image id="1" src="http://yaroslavya.github.io/w8tile/images/1.jpg"/>
+<image id="1" src="https://cdn3.vox-cdn.com/thumbor/4QRLr9R77Mgj37ol0XNJNOOPcUY=/0x0:3000x2000/640x427/cdn0.vox-cdn.com/uploads/chorus_image/image/45630766/455704728.0.jpg"/>
 <text id="1">
 The .NET CoreCLR is now open source, so I ran the GitHub repo through Microsoft Power BI
 </text>
