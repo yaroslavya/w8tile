@@ -2,7 +2,7 @@
 <visual lang="en-US" version="2">
 <binding template="TileSquare150x150Text04" branding="logo" fallback="TileSquareImage">
 <text id="1">
-The .NET CoreCLR is now open source, so I ran the GitHub repo through Microsoft Power BI
+Double the winnings!!! Make more money than ever!
 </text>
 </binding>
 <binding template="TileWide310x150ImageAndText01" branding="logo" fallback="TileWideImage">
