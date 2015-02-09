@@ -1,0 +1,31 @@
+<tile>
+<visual lang="en-US" version="2">
+<binding template="TileSquare150x150Text04" branding="logo" fallback="TileSquareImage">
+<text id="1">
+Double the winnings!!! Make more money than ever!
+</text>
+</binding>
+<binding template="TileWideSmallImageAndText05">
+      <image id="1" src="https://media.itsfogo.com/media/sccmsupload/Vanilla/bwin.com/App/Footer/PartnerLogos/man_utd.png" alt="manchester"/>
+      <text id="1">Manchester united</text>
+      <text id="2">One of the best clubs of the Premier league!</text>
+</binding>  
+<binding template="TileWide310x150ImageAndText01" branding="logo" fallback="TileWideSmallImageAndText05">
+<image id="1" src="https://scmedia.itsfogo.com/$-$/f302c2d18c894cf680976e418c7c95df.jpg"/>
+<text id="1">
+	Win money, win prizes, win cash! All of this at bwin.com!
+</text>
+</binding>
+<binding template="TileSquare310x310SmallImagesAndTextList03">
+      <image id="1" src="https://media.itsfogo.com/media/sccmsupload/Vanilla/bwin.com/App/Footer/PartnerLogos/man_utd.png" alt="manchester utd"/>
+      <image id="2" src="https://media.itsfogo.com/media/sccmsupload/Vanilla/bwin.com/App/Footer/PartnerLogos/real_madrid.png" alt="real madrid"/>
+      <image id="3" src="https://media.itsfogo.com/media/sccmsupload/Vanilla/bwin.com/App/Footer/PartnerLogos/bayern_munchen.png" alt="bayern munchen"/>
+      <text id="1">FC Manchester united</text>
+      <text id="2">One of the premier league clubs</text>
+      <text id="3">FC Real Madrid</text>
+      <text id="4">Spain top club</text>
+      <text id="5">Bayern</text>
+      <text id="6">Legendary club!</text>
+    </binding>  
+</visual>
+</tile>
